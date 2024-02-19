@@ -1,0 +1,6 @@
+import cn.hutool.core.lang.PatternPool;
+public class FunctionUse3727 {
+public void funcUse() {
+PatternPool patternpool = new PatternPool();
+}
+}
